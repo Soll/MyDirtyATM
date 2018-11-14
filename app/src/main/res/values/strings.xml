@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">My Dirty ATM</string>
+    <string name="start_button">MAKE ЦУСУС GREAT AGAIN!</string>
+    <string-array name="models_list">
+        <item>НЕ ЗНАЮ</item>
+        <item>NCR 5877</item>
+        <item>NCR 6622</item>
+        <item>NCR 6632</item>
+        <item>NCR 6625</item>
+        <item>NCR 6634</item>
+        <item>Nautilus 5600</item>
+        <item>Nautilus 5600T</item>
+        <item>Nautilus 7600</item>
+        <item>Nautilus 7600T</item>
+        <item>Nautilus MX8600 RATM</item>
+        <item>DORS PTM-1122</item>
+        <item>ЭСФОР</item>
+        <item>Discovery</item>
+    </string-array>
+    <string-array name="conditions_list">
+        <item>Отличное</item>
+        <item>Хорошее</item>
+        <item>Удовлетворительное</item>
+        <item>Неудовлетворительное</item>
+    </string-array>
+</resources>

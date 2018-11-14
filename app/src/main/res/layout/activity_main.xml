@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/darker_gray"
+    android:orientation="vertical"
+    android:paddingBottom="5dp"
+    android:paddingLeft="5dp"
+    android:paddingRight="5dp"
+    android:paddingTop="5dp"
+    tools:context="com.art.mydirtyatm.MainActivity">
+
+    <Button
+
+        android:id="@+id/start_button"
+        android:layout_width="match_parent"
+        android:layout_height="109dp"
+        android:layout_marginTop="180dp"
+        android:text="@string/start_button"
+        android:textAlignment="center"
+        android:textAppearance="@android:style/TextAppearance.Large"
+        android:textColor="@android:color/holo_green_dark"
+        android:textStyle="bold"
+        android:onClick="onStartButtonClick"
+        />
+
+</LinearLayout>
